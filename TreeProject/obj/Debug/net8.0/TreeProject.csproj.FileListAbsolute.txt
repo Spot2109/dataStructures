@@ -1,0 +1,14 @@
+E:\c#\TreeProject\bin\Debug\net8.0\TreeProject.exe
+E:\c#\TreeProject\bin\Debug\net8.0\TreeProject.deps.json
+E:\c#\TreeProject\bin\Debug\net8.0\TreeProject.runtimeconfig.json
+E:\c#\TreeProject\bin\Debug\net8.0\TreeProject.dll
+E:\c#\TreeProject\bin\Debug\net8.0\TreeProject.pdb
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.AssemblyInfoInputs.cache
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.AssemblyInfo.cs
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.csproj.CoreCompileInputs.cache
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.dll
+E:\c#\TreeProject\obj\Debug\net8.0\refint\TreeProject.dll
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.pdb
+E:\c#\TreeProject\obj\Debug\net8.0\TreeProject.genruntimeconfig.cache
+E:\c#\TreeProject\obj\Debug\net8.0\ref\TreeProject.dll
